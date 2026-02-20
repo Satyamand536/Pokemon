@@ -13,8 +13,6 @@
 
 > **[Pokemon →](https://poketeir.netlify.app/)**
 
----
-
 
 ---
 
